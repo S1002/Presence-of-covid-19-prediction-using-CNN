@@ -4,8 +4,8 @@
 
 #Follow the steps below
 
-Download the dataset from kaggle
+Download the dataset from kaggle.
 
 pip install -r requirements.txt
 
-run the covid19.ip
+run the covid19.ipynb jupyter notebook.
